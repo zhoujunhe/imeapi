@@ -1,0 +1,6 @@
+opencv-python==4.2.0.32
+flask
+paddlepaddle==1.8.5
+paddleocr==1.1.1
+requests
+uWSGI==2.0.19.1
